@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.backimg {
+  background-image: url("../public/backimg.jpg");
+  background-size: cover;
+  width: 100%;
+    height: 100vh;
+    background-position: bottom;
+  background-repeat: repeat;
+}
